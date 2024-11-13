@@ -1,4 +1,4 @@
 streamlit
 opencv-python-headless==4.8.0.74
-numpy
+numpy<2
 pillow
